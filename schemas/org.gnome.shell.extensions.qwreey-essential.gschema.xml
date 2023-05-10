@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+	<schema id="org.gnome.shell.extensions.qwreey-essential" path="/org/gnome/shell/extensions/qwreey-essential/">
+		<key name="format" type="s">
+			<default>""</default>
+			<summary>Format</summary>
+			<description>Format for the clock. Syntax https://developer.gnome.org/glib/stable/glib-GDateTime.html#g-date-time-format</description>
+		</key>
+	</schema>
+</schemalist>

@@ -1,0 +1,10 @@
+{
+	"description": "Gnome Completed",
+	"name": "Add optimization on gnome shell",
+	"settings-schema": "org.gnome.shell.extensions.gnome-completed",
+	"shell-version": [
+		"44"
+	],
+	"url": "https://github.com/qwreey75/gnome-completed",
+	"uuid": "gnome-completed@qwreey"
+}
